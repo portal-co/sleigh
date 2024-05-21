@@ -4,3 +4,4 @@ build
 # FetchContent Ghidra source directories
 /src/ghidra*
 cmake_fc_*
+bazel-*
