@@ -11,6 +11,7 @@ cmake(
     deps = [
         "@zlib",
     ],
+    out_include_dir = "include/sleigh"
 )
 
 filegroup(
